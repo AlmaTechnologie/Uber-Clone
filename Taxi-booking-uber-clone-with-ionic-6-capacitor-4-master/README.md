@@ -1,16 +1,8 @@
 
-<a href="https://youtu.be/qkymCs6F2f8" target="_blank">
- <img src="https://user-images.githubusercontent.com/7928001/188144579-62391f1e-27a4-438d-8574-e98df9c71ea5.png" alt="Watch the video" width="auto" height="auto" border="10" />
-</a>
+
 
 # This is a complete taxi booking system similar to Uber and Bolt. which can be converted to vendor projects; like food delivery or restuarant app.
 
-# If you need a similar project for learning or real world product, Reach out to me here:
-
-## EMAIL: playstudio86@gmail.com
-## SKYPE: chndth@live.com
-## PHONE: +2347041684556
-## WHATSAPP: +2347089930308
 
 <a href="https://naetoh.gumroad.com/l/taxicode" target="_blank">
  <img src="https://user-images.githubusercontent.com/7928001/188195160-f6860a55-6a4f-419d-ae1f-8d801e9c8241.png" alt="Watch the video" width="auto" height="auto" border="10"/>
